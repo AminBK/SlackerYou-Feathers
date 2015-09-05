@@ -12,4 +12,4 @@ Then start the server with
 
 > npm start
 
-Go to [http://localhost:3030](http://localhost:3030) and stat chatting!
+Go to [http://localhost:3030](http://localhost:3030) and start chatting!
